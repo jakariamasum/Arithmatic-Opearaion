@@ -1,0 +1,17 @@
+body {
+    background-color: #f3f4f6;
+}
+
+.calculator-container {
+    max-width: 450px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary:hover {
+    background-color: #FF7425 !important;
+    border-color: #FF7425 !important;
+}
